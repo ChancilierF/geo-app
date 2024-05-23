@@ -3,5 +3,5 @@ import os
 print("hello chancilier")
 
 
-os.system("date")
+os.system("nproc")
 os.system("uname -r")
